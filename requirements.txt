@@ -1,4 +1,9 @@
-numpy
+scikit-image
+
+jupyter
+numpy<2.0.0
 matplotlib
-Pillow
 scipy
+torch
+torchvision
+torchaudio
