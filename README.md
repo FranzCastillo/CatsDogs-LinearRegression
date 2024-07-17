@@ -1,15 +1,11 @@
 # CatsDogs LinearRegression
 
-## How to run
-1. Install the required packages
-```bash
-pip install -r requirements.txt
-```
-1.1 If running for the first time, also run
-```bash
-pip install -U --force-reinstall --no-cache https://github.com/johnhw/jhwutils/zipball/master
-```
-2. Start the notebook
-```bash
-jupyter notebook
-```
+## Preguntas
+### Ejercicio 7 - Modelo
+#### 1. ¿Qué se podría hacer para mejorar el rendimiento de esta red?
+#### 2. Interprete la gráfica de arriba
+
+### Parte 2 - Red Neuronal Simpple con PyTorch
+#### 1. ¿En qué consiste ```optim.SGD```?
+#### 2. ¿En qué consiste ```nn.NLLLoss```?
+#### 3. ¿Qué podría hacer para mejorar la red neuronal, y si no hay mejoras, por qué?
