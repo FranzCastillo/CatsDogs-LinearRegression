@@ -19,4 +19,4 @@ La clase nn.NLLLoss de PyTorch es una función de pérdida que utiliza la medida
 La medida de NLL evalúa el rendimiento de un modelo calculando el negativo del logaritmo de las probabilidades predichas para las clases verdaderas, según se indican en las etiquetas.
 
 #### 3. ¿Qué podría hacer para mejorar la red neuronal, y si no hay mejoras, por qué?
-La principal mejor que se le puede dar a esta red neuronal es agregar más capas para que esta pueda aprender caracteristicas más especificas y poder captar mayores detalles que puedan ser utiles para la clasificación de los individuos.
+La principal mejor que se le puede dar a esta red neuronal es agregar más capas para que esta pueda aprender características más especificas y poder captar mayores detalles que puedan ser útiles para la clasificación de los individuos.
